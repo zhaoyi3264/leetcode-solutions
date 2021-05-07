@@ -20,3 +20,8 @@ My LeetCode solutions
 - [1019. Next Greater Node In Linked List](src/1019.py)
 - [817. Linked List Components](src/817.py)
 - [328. Odd Even Linked List](src/328.py)
+- [430. Flatten a Multilevel Doubly Linked List](src/430.py)
+- [445. Add Two Numbers II](src/445.py)
+- [24. Swap Nodes in Pairs](src.24.py)
+- [1670. Design Front Middle Back Queue](src/1670.py)
+- [725. Split Linked List in Parts](src.725.py)
