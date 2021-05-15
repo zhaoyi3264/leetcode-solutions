@@ -3,6 +3,7 @@ My LeetCode solutions
 
 # Table of Contents
 - [Linked List](#linked-list)
+- [Tree](#tree)
 
 # Linked List
 - [1290. Convert Binary Number in a Linked List to Integer](src/1290.py)
@@ -42,3 +43,15 @@ My LeetCode solutions
 - [707. Design Linked List](src/707.py)
 - [25. Reverse Nodes in k-Group](src/25.py)
 - [23. Merge k Sorted Lists](src/23.py)
+
+# Tree
+- [938. Range Sum of BST](src/938.py)
+- [617. Merge Two Binary Trees](src/617.py)
+- [897. Increasing Order Search Tree](src/897.py)
+- [589. N-ary Tree Preorder Traversal](src/589.py)
+- [590. N-ary Tree Postorder Traversal](src/590.py)
+- [700. Search in a Binary Search Tree](src/700.py)
+- [1022. Sum of Root To Leaf Binary Numbers](src/1022.py)
+- [559. Maximum Depth of N-ary Tree](src/559.py)
+- [104. Maximum Depth of Binary Tree](src/104.py)
+- [965. Univalued Binary Tree](src/965.py)
