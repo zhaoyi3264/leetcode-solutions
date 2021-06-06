@@ -4,6 +4,7 @@ My LeetCode solutions
 # Table of Contents
 - [Linked List](#linked-list)
 - [Tree](#tree)
+- [DFS](#dfs)
 
 # Linked List
 - [1290. Convert Binary Number in a Linked List to Integer](src/1290.py)
@@ -156,3 +157,26 @@ My LeetCode solutions
 - [968. Binary Tree Cameras](src/968.py)
 - [987. Vertical Order Traversal of a Binary Tree](src/987.py)
 - [124. Binary Tree Maximum Path Sum](src/124.py)
+
+# DFS
+- [938. Range Sum of BST](src/938.py)
+- [897. Increasing Order Search Tree](src/897.py)
+- [559. Maximum Depth of N-ary Tree](src/559.py)
+- [104. Maximum Depth of Binary Tree](src/104.py)
+- [872. Leaf-Similar Trees](src/872.py)
+- [108. Convert Sorted Array to Binary Search Tree](src/108.py)
+- [690. Employee Importance](src/690.py)
+- [733. Flood Fill](src/733.py)
+- [257. Binary Tree Paths](src/257.py)
+- [783. Minimum Distance Between BST Nodes](src/783.py)
+- [100. Same Tree](src/100.py)
+- [563. Binary Tree Tilt](src/563.py)
+- [101. Symmetric Tree](src/101.py)
+- [110. Balanced Binary Tree](src/110.py)
+- [112. Path Sum](src/112.py)
+- [111. Minimum Depth of Binary Tree](src/111.py)
+- [1302. Deepest Leaves Sum](src/1302.py)
+- [1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree](src/1379.py)
+- [1315. Sum of Nodes with Even-Valued Grandparent](src/1315.py)
+- [1038. Binary Search Tree to Greater Sum Tree](src/1038.py)
+- [797. All Paths From Source to Target](src/797.py)
