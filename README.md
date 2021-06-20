@@ -7,6 +7,9 @@ My LeetCode solutions
 - [DFS](#dfs)
 
 # Linked List
+<details>
+	<summary>Click to expand</summary>
+
 - [1290. Convert Binary Number in a Linked List to Integer](src/1290.py)
 - [876. Middle of the Linked List](src/876.py)
 - [237. Delete Node in a Linked List](src/237.py)
@@ -45,8 +48,12 @@ My LeetCode solutions
 - [707. Design Linked List](src/707.py)
 - [25. Reverse Nodes in k-Group](src/25.py)
 - [23. Merge k Sorted Lists](src/23.py)
+</details>
 
 # Tree
+<details>
+	<summary>Click to expand</summary>
+
 - [938. Range Sum of BST](src/938.py)
 - [617. Merge Two Binary Trees](src/617.py)
 - [897. Increasing Order Search Tree](src/897.py)
@@ -158,8 +165,12 @@ My LeetCode solutions
 - [968. Binary Tree Cameras](src/968.py)
 - [987. Vertical Order Traversal of a Binary Tree](src/987.py)
 - [124. Binary Tree Maximum Path Sum](src/124.py)
+</details>
 
 # DFS
+<details>
+	<summary>Click to expand</summary>
+
 - [938. Range Sum of BST](src/938.py)
 - [897. Increasing Order Search Tree](src/897.py)
 - [559. Maximum Depth of N-ary Tree](src/559.py)
@@ -215,3 +226,4 @@ My LeetCode solutions
 - [131. Palindrome Partitioning](src/131.py)
 - [638. Shopping Offers](src/638.py)
 - [394. Decode String](src/394.py)
+</details>
