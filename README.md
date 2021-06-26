@@ -30,7 +30,6 @@ My LeetCode solutions
 - [24. Swap Nodes in Pairs](src/24.py)
 - [1670. Design Front Middle Back Queue](src/1670.py)
 - [725. Split Linked List in Parts](src/725.py)
-- [721. Accounts Merge](src/721.py)
 - [109. Convert Sorted List to Binary Search Tree](src/109.py)
 - [148. Sort List](src/148.py)
 - [86. Partition List](src/86.py)
@@ -226,4 +225,7 @@ My LeetCode solutions
 - [131. Palindrome Partitioning](src/131.py)
 - [638. Shopping Offers](src/638.py)
 - [394. Decode String](src/394.py)
+- [721. Accounts Merge](src/721.py)
+- [109. Convert Sorted List to Binary Search Tree](src/109.py)
+- [129. Sum Root to Leaf Numbers](src/129.py)
 </details>
